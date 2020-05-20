@@ -1,0 +1,21 @@
+.container1{
+	font-weight: bold;
+	font-size: 30px;
+	font-family: 'Merriweather', serif;
+	height:40px;
+	margin:50px 0px;
+}
+
+.fas fa-heart{
+	color: green;
+}
+
+.body{
+    background:linear-gradient(to bottom,rgba(241, 225, 225, 0.089),rgba(212, 175, 175, 0.089),rgba(214, 158, 158, 0.089),rgba(221, 127, 127, 0.089),rgba(218, 101, 101, 0.123));
+}
+
+.jumbotron{
+	background-image: url(https://image.freepik.com/free-photo/white-paint-flakes-pink_23-2147746729.jpg);
+	font-family: 'Nanum Myeongjo', serif;
+	font-weight:800;
+}
